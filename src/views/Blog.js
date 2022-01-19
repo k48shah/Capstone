@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 import Hero from '../components/sections/Hero';
 
 class Blog extends Component {
